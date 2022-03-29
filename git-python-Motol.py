@@ -17,3 +17,17 @@ def educational_bg():
     print(year)
  
 educational_bg()
+
+def hobbies():
+    hobby1 = "Reading Book" 
+    hobby2= "Sewing Clothes"
+    hobby3="Playing Minecraft"
+    hobby4="Cleaning the house"
+    hobby5="Dancing"
+    print(hobby1)
+    print(hobby2)
+    print(hobby3)
+    print(hobby4)
+    print(hobby5)
+    
+hobbies()
